@@ -1,5 +1,5 @@
 //Your code here
-function jusInvoke(fn) {
+function justInvoke(fn) {
   return fn();
-  
+
 }
